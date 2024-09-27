@@ -1,5 +1,5 @@
 {
-  "API_SERVER_URL": "https://immortal-vault-server.litolax.dev/api",
+  "API_SERVER_URL": "https://immortal-vault.litolax.dev/api",
   "GOOGLE_DRIVE_SCOPES": "https://www.googleapis.com/auth/drive.file https://www.googleapis.com/auth/drive.appdata",
   "GOOGLE_REDIRECT_URI": "https://immortal-vault.litolax.dev"
 }
