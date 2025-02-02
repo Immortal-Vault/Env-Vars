@@ -1,5 +1,5 @@
 {
-  "API_SERVER_URL": "http://localhost:5111/api",
+  "API_SERVER_URL": "http://192.168.1.8:5173/api",
   "GOOGLE_DRIVE_SCOPES": "https://www.googleapis.com/auth/drive.file https://www.googleapis.com/auth/drive.appdata",
   "GOOGLE_REDIRECT_URI": "http://localhost:5173"
 }
